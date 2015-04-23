@@ -1,0 +1,46 @@
+
+.container{
+  margin-right: auto;
+  margin-left: auto;
+  width: 320px;
+  margin-top: 50px;
+}
+.mobile_screen{
+  width: 320px;
+  height: 480px;
+  border-radius: 5px;
+  background-color: rgb(254,242,182);
+}
+.bottom_navbar{
+  margin-top: 55px;
+  height: 30px;
+  border-radius: 5px;
+  background-color: black;
+}
+#menu_button{
+  margin: 2px;
+  color: white;
+  background-color: black
+}
+.logo{
+  color: rgb(66,34,1);
+  font-size: 52px;
+  text-align: center;
+  font-weight: bolder;
+}
+.icon{
+  margin: 20px;
+  height: 65px;
+  width: 65px;
+}
+.icons{
+  list-style: none;
+}
+.list{
+  display: inline-block;
+}
+.center{
+  width: 160px;
+  margin-right: auto;
+  margin-left: auto;
+}
