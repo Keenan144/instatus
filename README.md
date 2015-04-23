@@ -1,0 +1,2 @@
+# instatus
+In Status is primarily a B2C business model: providing support to the consumer directly.  However, In Status has the potential to serve two complimentary markets: international students and the education professionals that work with them.  In Status seeks to be a lifeline for international students who are in the U.S. on an F-1 or J-1 visa and need qualified answers quickly.  For the education professionals, In Status is the essential tool that can provide better service to the international student population they seek to serve. 
